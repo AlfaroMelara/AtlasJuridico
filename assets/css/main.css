@@ -207,7 +207,7 @@ input, select, textarea {
 	h2 {
 		font-size: 1.5rem;
 		line-height: 1.4;
-		letter-spacing: 0.5rem;
+		letter-spacing: 0.2rem;
 	}
 
 	h3 {
@@ -1361,7 +1361,7 @@ input, select, textarea {
 					line-height: 2.75rem;
 					padding: 0 1.25rem 0 1.45rem;
 					text-transform: uppercase;
-					letter-spacing: 0.2rem;
+					letter-spacing: 0.15rem;
 					font-size: 0.8rem;
 					border-bottom: 0;
 				}
