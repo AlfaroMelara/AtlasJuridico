@@ -205,6 +205,7 @@ input, select, textarea {
 	}
 	#sans-serif p, #sans-serif span{
 		font-family: 'lato'/*, "Source Sans Pro", sans-serif*/;
+		font-size: 0.8rem;
 	}
 
 	a {
