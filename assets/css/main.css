@@ -79,11 +79,10 @@ input, select, textarea {
 .timeline .title-wrapper {
   display: flex;
   align-items: center;
-  gap: 15px;
 }
 
 .timeline-list {
-  margin-left: 0.8rem;
+  margin-left: 0.2rem;
 }
 
 .timeline-item { position: relative; }
