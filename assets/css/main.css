@@ -83,7 +83,7 @@ input, select, textarea {
 }
 
 .timeline-list {
-  margin-left: 45px;
+  margin-left: 0.8rem;
 }
 
 .timeline-item { position: relative; }
